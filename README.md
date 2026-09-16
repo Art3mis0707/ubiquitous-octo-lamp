@@ -1,4 +1,3 @@
-@"
 # Microservices Project
 
 This repository contains the following services:
